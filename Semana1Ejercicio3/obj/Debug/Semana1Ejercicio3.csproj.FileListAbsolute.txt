@@ -1,0 +1,7 @@
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\obj\Debug\Semana1Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\obj\Debug\Semana1Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\bin\Debug\Semana1Ejercicio3.exe.config
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\bin\Debug\Semana1Ejercicio3.exe
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\bin\Debug\Semana1Ejercicio3.pdb
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\obj\Debug\Semana1Ejercicio3.exe
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio3\obj\Debug\Semana1Ejercicio3.pdb
