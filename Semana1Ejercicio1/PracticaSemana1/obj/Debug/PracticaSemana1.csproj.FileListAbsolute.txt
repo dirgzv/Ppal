@@ -1,0 +1,7 @@
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\bin\Debug\PracticaSemana1.exe.config
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\bin\Debug\PracticaSemana1.exe
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\bin\Debug\PracticaSemana1.pdb
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\obj\Debug\PracticaSemana1.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\obj\Debug\PracticaSemana1.csproj.CoreCompileInputs.cache
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\obj\Debug\PracticaSemana1.exe
+C:\Users\santiago\source\repos\dirgzv\Ppal\Semana1Ejercicio1\PracticaSemana1\obj\Debug\PracticaSemana1.pdb

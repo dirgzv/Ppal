@@ -8,16 +8,14 @@ namespace Semana1Ejercicio1
 {
     class Program
     {
-         static float SacarPromedio(float Nota1, float Nota2, float Nota3)
-         {
+        public static float SacarPromedio(float Nota1, float Nota2, float Nota3)
+        {
             float Promedio = (Nota1 + Nota2 + Nota3) / 3;
             return Promedio;
-         }
-
+        }
         static void Main(string[] args)
         {
-            
-            float Nota1, Nota2, Nota3,Promedio;
+            float Nota1, Nota2, Nota3, Promedio;
 
             Console.WriteLine("Ingrese la primera nota");
             Nota1 = float.Parse(Console.ReadLine());
@@ -26,11 +24,18 @@ namespace Semana1Ejercicio1
             Console.WriteLine("Ingrese la tercera nota");
             Nota3 = float.Parse(Console.ReadLine());
 
-            Promedio=SacarPromedio(Nota1, Nota2, Nota3);
+            Promedio = SacarPromedio(Nota1, Nota2, Nota3);
 
             Console.WriteLine("El promedio de las notas es: " + Promedio);
+            if (Promedio >= 3)
+            {
+                Console.WriteLine("Aprobado");
+            }
+            else
+            {
+                Console.WriteLine("Reprobado");
+            }
             Console.ReadKey();
         }
     }
-
 }
