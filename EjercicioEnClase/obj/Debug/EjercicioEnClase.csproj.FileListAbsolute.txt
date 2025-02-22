@@ -1,0 +1,7 @@
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\bin\Debug\EjercicioEnClase.exe.config
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\bin\Debug\EjercicioEnClase.exe
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\bin\Debug\EjercicioEnClase.pdb
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\obj\Debug\EjercicioEnClase.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\obj\Debug\EjercicioEnClase.csproj.CoreCompileInputs.cache
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\obj\Debug\EjercicioEnClase.exe
+C:\Users\santiago\source\repos\Ppal\EjercicioEnClase\obj\Debug\EjercicioEnClase.pdb
